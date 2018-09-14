@@ -1,0 +1,257 @@
+[
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1536943808000,
+            "changeTime": 1536943808412,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1536943808000,
+            "changeTime": 1536943808415,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1536945578560,
+            "changeTime": 1536945578560,
+            "contentHash": "500f13190a435884f42854137a5cefb684ca41a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/SFDXLEXCONTROLLER.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/SFDXLEXCONTROLLER.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 88,
+            "modifiedTime": 1536945578559,
+            "changeTime": 1536945579392,
+            "contentHash": "3681b02f8172baded822eb5b6b1e5e7bf96b9211",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/SFDXLEXCONTROLLER.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/SFDXLEXCONTROLLER.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1536945578560,
+            "changeTime": 1536945579409,
+            "contentHash": "f12bfe3e9dbbce0c13786d0122cc5177a1e14558",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1536945494834,
+            "changeTime": 1536945494834,
+            "contentHash": "3611c8404ca1c4d304afc2f434b6f07df5514eb1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1536945494838,
+            "changeTime": 1536945494838,
+            "contentHash": "6b0b03731df442e4a27f434fbf94d80f9a7441ca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1536945494838,
+            "changeTime": 1536945495669,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 90,
+            "modifiedTime": 1536945799554,
+            "changeTime": 1536945799554,
+            "contentHash": "e829a0931ecde78803cb8db049ae366e1913ec70",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1536945494835,
+            "changeTime": 1536945495638,
+            "contentHash": "c2cc67696e3cb2a5f259f3e99275439696080362",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1536945494837,
+            "changeTime": 1536945495655,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1536945494839,
+            "changeTime": 1536945495673,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1536945494837,
+            "changeTime": 1536945495665,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1Controller.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1Controller.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1536945494836,
+            "changeTime": 1536945495644,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1Helper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1Helper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1536945494836,
+            "changeTime": 1536945495651,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1Renderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1/force-app/main/default/aura/SFDXLEXCMP1/SFDXLEXCMP1Renderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1536945494837,
+            "changeTime": 1536945495660,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1",
+        {
+            "state": "n",
+            "sourcePath": "/Users/leelakrishnanalluri/Desktop/LeelaSFDX1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1536943825000,
+            "changeTime": 1536943825002,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
